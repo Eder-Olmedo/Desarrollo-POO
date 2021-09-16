@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+//tipos de datos, con operaciones
 int main()
 {
     int x;

@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//tipos de datos
 int main()
 {
     float pi = 3.1415;
