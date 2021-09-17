@@ -28,25 +28,22 @@ int main()
     {
     case 1:
         c = a+b;
-        printf("el resultado es: %.2f\n",c);
         break;
     case 2:
         c = a-b;
-        printf("el resultado es: %.2f\n",c);
         break;
     case 3:
         c = a*b;
-        printf("el resultado es: %.2f\n",c);
         break;
     case 4:
         c= a/b;
-        printf("el resultado es: %.2f\n",c);
+        
         break;
     default:
         printf("opcion invalida\n");
         break;
     }
-
+    printf("el resultado es: %.2f\n",c);
 
     return 0;
 }
